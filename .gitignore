@@ -1,0 +1,5 @@
+shellforge
+*.o
+fcfs
+output.txt
+backups/
